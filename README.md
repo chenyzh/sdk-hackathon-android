@@ -1,6 +1,6 @@
 # SDK Hackathon Android Demo
 
-This is a demo Android app that is used for SDK Hackathon.
+This is a demo Android app for Firebase SDK Hackathon.
 
 We suggest to track the following in-app events via Firebase:
 
